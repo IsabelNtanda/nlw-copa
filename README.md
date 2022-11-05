@@ -43,4 +43,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://isabelntanda.github.io/nlw-copa/)
+Feito com ♥ by Isabel Ntanda :wave: [click aqui para acessar!](https://isabelntanda.github.io/nlw-copa/)
