@@ -8,13 +8,26 @@
     --card-title-border-color:#746615;
     --card-color-primary:#F7DD43;
     --card-bg-color:#1d1c19;
-    --bg:url('../imagens/bg-overlay.svg');
+    --bg: url('../imagens/bg-yellow.svg');
+
     
 }
 
+body.blue{
+--card-title-border-color:#338AF3; 
+--card-color-primary:#338AF3;
+--card-bg-color:#202024;
+--bg:url('../imagens/bg-blue.svg');
 
+}
 
-
+body.green{  
+--card-title-border-color:#047c3f; 
+--card-color-primary:#047c3f;
+--card-bg-color:#1a1f1b;
+--bg:url('../imagens/bg-green.svg');
+    }
+    
 
 
 ul{
@@ -24,8 +37,8 @@ ul{
 body{
     background-color: #121214;
     background-image: url('../imagens/Property\ 1=Blue.svg');
-    background-position-x: center;
-    background-position-y:-715px;
+    background-position: center;
+   background-size: cover;
     background-repeat: no-repeat ;
 
    
@@ -38,7 +51,8 @@ body *  {
 #app{
   
     width: fit-content;
-    margin: 52px auto;
+    margin:auto;
+    padding-top: 53px;
 }
 
 header{
